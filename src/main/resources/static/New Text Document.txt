@@ -10,4 +10,4 @@ view tables --> all  --> button (Reserve table) ---> Date, slot(brekfast(5$), lu
 view reservation details --> admin all, user separte ---> all details (table) --> status --> pending button(cancel, pay) 
 			row color ---> if cancel --> gray
 Add/view feedback ---> content with user name
-view user details ----> (Admin can see all details) ---> user only personal data
+view user details ----> (Admin can see all details) ---> user only personal data 
